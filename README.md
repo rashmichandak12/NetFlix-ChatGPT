@@ -1,3 +1,7 @@
+Sample Netflix UI with login and browse page
+Authentication using firebase log in with google option.
+ChatGpt feature not working right now due to API usage limit.
+
 # Features
 
 - login page
